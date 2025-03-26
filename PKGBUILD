@@ -1,3 +1,6 @@
+# Maintainer: Jackson Baker Ryan <jackson.baker.ryan at gmail dot com>
+# Maintainer: Nyaruke
+
 pkgname=otf-nimbus-mono
 pkgdesc="Nimbus Mono typeface - A serif, typewriter typeface"
 pkgver=1.0
